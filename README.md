@@ -18,13 +18,10 @@ Um projeto que consiste na visualização dos **números de 0 a 9** no painel LE
 
 ## 🛠️ **Tecnologias Utilizadas**
 
-- **Linguagem de Programação:** C
+- **Linguagem de Programação:** C / CMake
 - **Placas Microcontroladoras:**
   - BitDogLab
   - Pico W
-- **Ferramentas:**
-  - Wokwi
-
 ---
 
 ## 📖 **Como Utilizar**
